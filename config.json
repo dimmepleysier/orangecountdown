@@ -1,0 +1,8 @@
+{
+    "title": "The Next Big Release",
+    "status": "red",
+    "deadline": "2026-01-30 17:00:00",
+    "remarks": "ALL HANDS ON DECK",
+	"ticker": "There are still several open bugs and we still have to agree on the statement of work",
+    "reloadMinutes": 1
+}
