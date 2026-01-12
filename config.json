@@ -1,8 +1,9 @@
 {
-    "title": "The Next Big Release",
+    "title": "It's ALMOST LUNCH TIME",
     "status": "red",
-    "deadline": "2026-01-30 17:00:00",
-    "remarks": "ALL HANDS ON DECK",
-	"ticker": "There are still several open bugs and we still have to agree on the statement of work",
+    "deadline": "2026-01-12 12:25:00",
+    "remarks": "and, from experience, the lunch is really good",
+	"ticker": "Please pretend to be interested during the next 20 minutes and join the FUT (friendly user test)",
     "reloadMinutes": 1
+
 }
